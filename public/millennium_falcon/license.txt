@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lancia Stratos Zero HF
+* source:	https://sketchfab.com/3d-models/lancia-stratos-zero-hf-d5bdf66e08a747a29756421ae69c1830
+* author:	Blue3D (https://sketchfab.com/Blueberry12)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lancia Stratos Zero HF" (https://sketchfab.com/3d-models/lancia-stratos-zero-hf-d5bdf66e08a747a29756421ae69c1830) by Blue3D (https://sketchfab.com/Blueberry12) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
